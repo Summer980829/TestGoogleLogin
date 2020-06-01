@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175231437961",
+    "firebase_url": "https://trysignin-ac79a.firebaseio.com",
+    "project_id": "trysignin-ac79a",
+    "storage_bucket": "trysignin-ac79a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175231437961:android:696379d193fd08bd748a58",
+        "android_client_info": {
+          "package_name": "com.mercy.testgooglelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175231437961-shkv1a9208s5bqi0o1sh66sibiqi0g3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1FB-Al8sZBolZoITcMgPH8aanXoCGC_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175231437961-shkv1a9208s5bqi0o1sh66sibiqi0g3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
